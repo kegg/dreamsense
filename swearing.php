@@ -1,6 +1,6 @@
 <?php
   $title = "Swearing";
-  $prev = "mental-illness.php";
+  $prev = "diary.php";
   include("header.php");
 ?>
 

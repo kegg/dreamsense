@@ -1,6 +1,7 @@
 <?php
   $title = "Diary";
   $prev = "easy.php";
+  $words = "swearing.php";
   include("header.php");
 ?>
 
@@ -58,6 +59,8 @@ asked really can lead a person down a rabbit hole, as it were.</p>
 
 <p>All simple one word questions which can lead to much deeper disucssions. Talk
 about a rush.</p>
+
+<p>Damnit that really would be a rush. <a href="swearing.php">Oops I swore.</a></p>
 
 <?php
   include("footer.php");
