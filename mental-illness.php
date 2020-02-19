@@ -50,7 +50,28 @@
   lifetime when possible, yet here we are stressed beyond any control, we are
   destroying ourselves one breath of air at a time. Waste of a soul. Death of
   a life. It ain't worth trying if all you plan on is dying. So let those
-  thoughts go, don't believe what the devil inside is whispering in your head.</p>
+  thoughts go, don't believe what the devil inside is whispering in your
+  head.</p>
+<p>So you mess up every once in a while, you live through it and make
+  your way past it. Great for some and it all goes away. For others, it
+  doesn't and we are left to our own devices. It ain't all good when you don't
+  get a poinnt to stand your ground. So make your way and see it through
+  to the end as it were if only to know nothing at all.</p>
+<p>So don't be going towards that light it's not your time yet, you don't want
+  to face that fight. It's not meant to be or discovered that way.</p>
+<p>Only a moment is gone, but decided by whom?!</p>
+<p style="text-align:center"><img src="img/ray.jpg"/></p>
+<p>Are you the one who's to be in charge here? I don't know. I can't tell you
+  who would know. Maybe it's the squishy ball in charge. Now that's what we're
+  talking about.</p>
+<p>It's you and me buddy, your funny green face and me. We're in it together.
+  Yet my friend in order to help me has to get squished. Is that a healthy
+  friendship?</p>
+<p>Makes you wonder, doesn't it?</p>
+<p style="text-align:center"><img src="img/squoze2.jpg"/></p>
+<p>All this life is a bit of words on a paper. Nothing more than that. So
+  that's how it all works. Don't stop going, gotta make it through somehow. Let's
+  live.</p>
 <?php
   include("footer.php");
 ?>
