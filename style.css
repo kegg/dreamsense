@@ -13,6 +13,10 @@ address {
   font-size:10pt;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .content {
   max-width: 650px;
   margin: auto;

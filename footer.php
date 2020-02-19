@@ -7,7 +7,7 @@
   echo '<a href="/' . date('Y') . '/index.php">' . date('Y') . '</a>';
   echo '</address>';
   echo '<p style="text-align:center""><a href="/index.php"><img border="0" src="/ds.png"/></a><br/>';
-  echo '<img border="0" src="/ds2.png"/></p>';
+  echo '<a href="/dream.php"><img border="0" src="/ds2.png"/></a></p>';
   echo '</div>';
   echo "</body>";
   echo "</html>";
