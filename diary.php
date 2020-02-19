@@ -1,7 +1,6 @@
 <?php
   $title = "Diary";
   $prev = "easy.php";
-  $next = "mental-illness.php";
   include("header.php");
 ?>
 
