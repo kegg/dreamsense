@@ -5,6 +5,8 @@
 
 <p>A brand new year and here we go.</p>
 
+<p><a href="0219.php">Feb 19, 2020</a></p>
+
 <?php
   include("../footer.php");
 ?>
