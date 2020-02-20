@@ -1,9 +1,10 @@
 <?php
   $title = "2003";
+  $next = "/2020/index.php";
   include("header.php");
 ?>
 
-<p><span class="drop">A</span>h 2003, when life felt much different and weird...or was it simple? I dont' 
+<p><span class="drop">A</span>h 2003, when life felt much different and weird...or was it simple? I dont'
 know. All I know is that's when I purchased dreamsense.com. Talk about some good
 times for sure.</p>
 

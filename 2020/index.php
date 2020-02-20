@@ -1,5 +1,7 @@
 <?php
   $title = "2020";
+  $prev = "/2003.php";
+  $next = "0219.php";
   include("../header.php");
 ?>
 
