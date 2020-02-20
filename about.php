@@ -5,7 +5,7 @@
   include("header.php");
 ?>
 
-<p>I'm just a guy who wants to figure out what's going on in this life. It 
+<p><span class="drop">I'm</span> just a guy who wants to figure out what's going on in this life. It 
 doesn't always mean something good will happen, but here we are nonetheless.</p>
 
 <p style="text-align:center">
