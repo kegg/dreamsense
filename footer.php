@@ -8,7 +8,7 @@
   echo ' <a href="/rules.php">rules</a> ';
   echo ' <a href="https://mormon.dreamsense.com">Mormon</a> ';
   echo ' <a href="https://code.dreamsense.com">Code</a> ';
-  echo ' <a href="https://subspacecomnet.dreamsense.com">Subspace Com Net</a> ';
+  echo ' <a href="https://zero.dreamsense.com">Stories</a> ';
   echo '</address>';
   echo '<p style="text-align:center""><a href="/index.php"><img border="0" src="/ds.png"/></a><br/>';
   echo '<a href="/dream.php"><img border="0" src="/ds2.png"/></a></p>';
