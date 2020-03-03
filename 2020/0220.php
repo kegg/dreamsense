@@ -1,7 +1,8 @@
 <?php
   $title = "Feb 20, 2020";
   $prev = "0219.php";
-  include("../header.php"); 
+  $next = "0303.php";
+  include("../header.php");
 ?>
 
 <p>08:30</p>
